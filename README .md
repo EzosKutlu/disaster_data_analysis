@@ -114,3 +114,6 @@ This dataset was generated for educational purposes and appears to be synthetica
 Furthermore, the analysis revealed that the data came from only 8 countries and that the `is_major_disaster` variable was automatically derived from the `severity_level` variable.
 
 These limitations make the dataset unsuitable for drawing real world conclusions, but it serves well as a practice environment for EDA and machine learning workflows.
+
+## View Notebook
+For full rendering including interactive map: (https://nbviewer.org/github/EzosKutlu/disaster_data_analysis/blob/main/Disaster%20Data%20Analysis%20Project.ipynb)
